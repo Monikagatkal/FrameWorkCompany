@@ -1,0 +1,5 @@
+com\frameworkcompany\reuse\CommonFunction.class
+com\frameworkcompany\scripts\Login_Logout.class
+com\frameworkcompany\scripts\Login_Logout_Excel.class
+com\frameworkcompany\objectrepository\HomePage.class
+com\frameworkcompany\objectrepository\LoginPage.class

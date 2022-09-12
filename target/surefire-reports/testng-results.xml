@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-10T09:13:33 IST" name="Suite" finished-at="2022-09-10T09:16:24 IST" duration-ms="170406">
+    <groups>
+    </groups>
+    <test started-at="2022-09-10T09:13:33 IST" name="Test" finished-at="2022-09-10T09:16:24 IST" duration-ms="170406">
+      <class name="com.frameworkcompany.scripts.Login_Logout_Excel">
+        <test-method is-config="true" signature="generateReport()[pri:0, instance:com.frameworkcompany.scripts.Login_Logout_Excel@7920ba90]" started-at="2022-09-10T09:13:33 IST" name="generateReport" finished-at="2022-09-10T09:13:34 IST" duration-ms="172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReport -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.frameworkcompany.scripts.Login_Logout_Excel@7920ba90]" started-at="2022-09-10T09:13:34 IST" name="beforeClass" finished-at="2022-09-10T09:13:42 IST" duration-ms="8446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="methodName(java.lang.reflect.Method)[pri:0, instance:com.frameworkcompany.scripts.Login_Logout_Excel@7920ba90]" started-at="2022-09-10T09:13:42 IST" name="methodName" finished-at="2022-09-10T09:13:42 IST" duration-ms="15" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.frameworkcompany.scripts.Login_Logout_Excel.Login_Logout_ExcelTestCase() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodName -->
+        <test-method signature="Login_Logout_ExcelTestCase()[pri:0, instance:com.frameworkcompany.scripts.Login_Logout_Excel@7920ba90]" started-at="2022-09-10T09:13:42 IST" name="Login_Logout_ExcelTestCase" finished-at="2022-09-10T09:16:23 IST" duration-ms="161006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Logout_ExcelTestCase -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.frameworkcompany.scripts.Login_Logout_Excel@7920ba90]" started-at="2022-09-10T09:16:23 IST" name="afterClass" finished-at="2022-09-10T09:16:24 IST" duration-ms="716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.frameworkcompany.scripts.Login_Logout_Excel -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
